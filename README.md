@@ -24,7 +24,7 @@ Cada linha do registro (também referido como log) é uma ação do usuário ou 
 - Python: Linguagem principal utilizada para análise, versátil e eficiente para manipulação de dados, construção de modelos e execução de tarefas de análise de dados.
 - Pandas: Biblioteca essencial para manipulação e análise de dados, especialmente para trabalhar com estruturas de dados como DataFrames e séries, permitindo fácil leitura, limpeza, filtragem e transformação dos dados.
 - Matplotlib: Biblioteca de visualização de dados amplamente utilizada para criar gráficos estáticos, como gráficos de barras, linhas e dispersão.
-- Numpy: Biblioteca fundamental para trabalhar com arrays multidimensionais e operações matemáticas em grande escala. É amplamente usada para realizar cálculos rápidos e eficientes com grandes volumes de dados.
+- NumPy: Biblioteca que simplifica o manuseio de vetores e matrizes, acelerando cálculos matemáticos e estatísticos nos dados.
 - Seaborn: Biblioteca de visualização de dados baseada no Matplotlib, fornece uma interface de alto nível para a criação de gráficos informativos e bonitos, como gráficos de dispersão e gráficos de densidade.
 - Scipy: Biblioteca que fornece funções matemáticas e científicas, como operações de álgebra linear, otimização, estatísticas, integração e processamento de sinais, entre outras.
 - Plotly.express: Biblioteca para criar visualizações rápidas e interativas, como gráficos de linha, dispersão, barras, mapas, entre outros, com foco em visualizações interativas em tempo real.
@@ -33,25 +33,25 @@ Cada linha do registro (também referido como log) é uma ação do usuário ou 
 ## Imagens
 
 ### Tabela dados
-<img src="https://github.com/user-attachments/assets/465f962d-3465-4047-baf7-d6f6d53db428" alt="Projeto 11" width="200"/>
+<img src="https://github.com/user-attachments/assets/465f962d-3465-4047-baf7-d6f6d53db428" alt="Projeto 11" width="1000"/>
 
 ### Tabela tipos de eventos
-<img src="https://github.com/user-attachments/assets/029eb9d8-dd3d-41b5-be82-f551afed0520" alt="Projeto 11" width="200"/>
+<img src="https://github.com/user-attachments/assets/029eb9d8-dd3d-41b5-be82-f551afed0520" alt="Projeto 11" width="1000"/>
 
-### Data
-<img src="https://github.com/user-attachments/assets/e6b5bdc3-22f7-456e-b408-1f80d385b67f" alt="Projeto 11" width="200"/>
+### Gráfico - Data
+<img src="https://github.com/user-attachments/assets/e6b5bdc3-22f7-456e-b408-1f80d385b67f" alt="Projeto 11" width="800"/>
 
 ### Tabela grupos
 <img src="https://github.com/user-attachments/assets/3d308a6c-2e59-45ee-8342-35147282572c" alt="Projeto 11" width="200"/>
 
-### p-value
-<img src="https://github.com/user-attachments/assets/b0bbdb19-7c8a-4f72-9162-d5a7fc96caff" alt="Projeto 11" width="200"/>
+### Código - p-value
+<img src="https://github.com/user-attachments/assets/b0bbdb19-7c8a-4f72-9162-d5a7fc96caff" alt="Projeto 11" width="1000"/>
 
-### Teste A/A
-<img src="https://github.com/user-attachments/assets/3b0b9eeb-bf0c-4492-a7d0-b081096d526f" alt="Projeto 11" width="200"/>
+### Código - Teste A/A
+<img src="https://github.com/user-attachments/assets/3b0b9eeb-bf0c-4492-a7d0-b081096d526f" alt="Projeto 11" width="1000"/>
 
-### Teste A/B
-<img src="https://github.com/user-attachments/assets/f39f830c-9ed5-447e-a35c-34138eabe799" alt="Projeto 11" width="200"/>
+### Código - Teste A/B
+<img src="https://github.com/user-attachments/assets/f39f830c-9ed5-447e-a35c-34138eabe799" alt="Projeto 11" width="1000"/>
 
 ## Resultados
 - Através da visualização dos gráficos, foi possível identificar padrões claros no comportamento dos usuários durante as etapas do funil de vendas.
@@ -59,7 +59,7 @@ Cada linha do registro (também referido como log) é uma ação do usuário ou 
 - Os resultados do teste A/A/B mostraram que o grupo de teste (B), que utilizou as novas fontes, obteve um desempenho superior em comparação com os dois grupos de controle (A1 e A2), confirmando que as mudanças implementadas no design do site foram eficazes na otimização do funil de vendas.
 
 ## Aprendizados
-- Análise de dados: Identificação de padrões e insights relevantes a partir dos dados disponíveis.
+- Análise de dados: Processo de examinar, transformar e interpretar informações para obter percepções valiosas e embasar decisões estratégicas.
 - Qualidade dos dados: Garantia da consistência e integridade dos dados, identificando valores ausentes ou inconsistências.
 - Tratar os dados modificando tipos de colunas, nome das colunas, valores ausentes: Preparação dos dados para análise, corrigindo e ajustando os dados conforme necessário.
 - Construção e análise de gráficos: Utilização de ferramentas de visualização para criar gráficos que ajudem na interpretação dos dados e insights.
